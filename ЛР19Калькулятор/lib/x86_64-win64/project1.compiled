@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1482330472"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw2 -godwarfsets -gl -WG -l -vewnhibq &quot;-FiC:\Учеба\МДК 05.02\ЛР19Калькулятор\lib\x86_64-win64&quot; -FuC:\lazarus\lcl\units\x86_64-win64\win32 -FuC:\lazarus\lcl\units\x86_64-win64 -FuC:\lazarus\components\freetype\lib\x86_64-win64 -FuC:\lazarus\components\lazutils\lib\x86_64-win64 -FuC:\lazarus\packager\units\x86_64-win64 &quot;-FuC:\Учеба\МДК 05.02\ЛР19Калькулятор\&quot; &quot;-FUC:\Учеба\МДК 05.02\ЛР19Калькулятор\lib\x86_64-win64\&quot; &quot;-FEC:\Учеба\МДК 05.02\ЛР19Калькулятор\&quot; &quot;-oC:\Учеба\МДК 05.02\ЛР19Калькулятор\project1.exe&quot; -dLCL -dLCLwin32 project1.lpr"/>
+</CONFIG>

@@ -1,0 +1,83 @@
+object fMain: TfMain
+  Left = 717
+  Height = 283
+  Top = 313
+  Width = 518
+  Caption = 'fMain'
+  ClientHeight = 283
+  ClientWidth = 518
+  Color = clYellow
+  DesignTimePPI = 120
+  LCLVersion = '3.2.0.0'
+  object Button1: TButton
+    Left = 8
+    Height = 31
+    Top = 56
+    Width = 142
+    Caption = 'Вариант умн. 1'
+    TabOrder = 0
+    OnClick = Button1Click
+  end
+  object Edit1: TEdit
+    Left = 176
+    Height = 28
+    Top = 8
+    Width = 128
+    TabOrder = 1
+  end
+  object Label1: TLabel
+    Left = 8
+    Height = 20
+    Top = 8
+    Width = 101
+    Caption = 'Введите число'
+    OnClick = Label1Click
+  end
+  object BitBtn1: TBitBtn
+    Left = 16
+    Height = 38
+    Top = 232
+    Width = 94
+    Caption = 'УХАДИ'
+    Kind = bkAbort
+    ModalResult = 3
+    OnClick = BitBtn1Click
+    TabOrder = 2
+  end
+  object Button2: TButton
+    Left = 176
+    Height = 31
+    Top = 56
+    Width = 136
+    Caption = 'Вариант умн. 2'
+    TabOrder = 3
+    OnClick = Button2Click
+  end
+  object Button3: TButton
+    Left = 344
+    Height = 31
+    Top = 56
+    Width = 142
+    Caption = 'Вариант умн. 3'
+    TabOrder = 4
+    OnClick = Button3Click
+  end
+  object Button4: TButton
+    Left = 8
+    Height = 31
+    Top = 120
+    Width = 136
+    Caption = 'Вариант умн. 4'
+    TabOrder = 5
+    OnClick = Button4Click
+  end
+  object Button5: TButton
+    Left = 176
+    Height = 31
+    Top = 120
+    Width = 142
+    Caption = 'Вариант умн. 5'
+    TabOrder = 6
+    OnClick = Button5Click
+  end
+end
